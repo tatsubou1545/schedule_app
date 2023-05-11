@@ -1,0 +1,10 @@
+/* トップ画面 */
+.main-contains{
+  background-color: red;
+  height: 100vh;
+}
+
+.header{
+  background-color: black;
+  height: 100px;
+}
