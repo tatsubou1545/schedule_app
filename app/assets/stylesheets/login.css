@@ -1,0 +1,39 @@
+/* ログイン画面 */
+.login-main{
+  height: 100vh;
+}
+
+.login-main-container{
+  height: 400px;
+  width: 500px;
+  background-color: aqua;
+  margin: 200px auto;
+  padding: 30px 0;
+  border-radius: 10px;
+}
+
+.login-header{
+  text-align: center;
+}
+
+.login-input{
+  text-align: center;
+}
+
+.login-field{
+  margin-bottom: 20px;
+}
+
+.login-field-email{
+  width: 300px;
+  height: 30px;
+}
+
+.login-field-password{
+  width: 300px;
+  height: 30px;
+}
+
+.login-actions{
+  margin-bottom: 20px;
+}
