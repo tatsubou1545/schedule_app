@@ -5,6 +5,15 @@
 }
 
 .header{
-  background-color: black;
-  height: 100px;
+  background-color: khaki;
+  height: 50px;
+}
+
+.main-box{
+  height: 100%;
+}
+
+.footer{
+  background-color: forestgreen;
+  height: 50px;
 }
